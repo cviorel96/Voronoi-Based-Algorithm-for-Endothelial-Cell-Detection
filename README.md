@@ -5,4 +5,4 @@
 
 Cell detection algorithm with Voronoi Tessellation for microscopy images of endothelial cells.
 
-Press here for code: [Python Code](https://github.com/cviorel96/Voronoi-Based-Algorithm-for-Endothelial-Cell-Detection/blob/main/VoronoiFinal.py)
+Script can be accessed at: [Python Code](https://github.com/cviorel96/Voronoi-Based-Algorithm-for-Endothelial-Cell-Detection/blob/main/VoronoiFinal.py)
