@@ -532,5 +532,5 @@ def start_all():
     ortho_facets = start.differences()
     start.barycentric_coordinates(ortho_facets, big_areas)
 
-
-start_all()
+if __name__ == "__main__":
+    start_all()
