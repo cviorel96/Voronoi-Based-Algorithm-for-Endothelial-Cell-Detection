@@ -9,7 +9,7 @@ import statistics as sts
 np.set_printoptions(suppress=True)
 
 '''
-Nuclei detection algorithm with Voronoi Tesselation.
+Endothelial cell detection algorithm with Voronoi Tesselation.
 
 INSTRUCTIONS:
 Press:
